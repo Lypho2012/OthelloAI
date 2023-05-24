@@ -1,8 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*
 """
-An AI player for Othello. This is the template file that you need to  
-complete.
+An AI player for Othello. Uses different weights at each stage of game.
 
 @author: YOUR NAME AND UNI 
 """
