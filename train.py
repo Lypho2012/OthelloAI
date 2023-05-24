@@ -1,4 +1,4 @@
-from YOURGROUP_ai import compute_utility
+from Othello_AI_vs1 import compute_utility
 #from YOURGROUP_ai import final_board
 from othello_game import AiPlayerInterface, OthelloGameManager, play_game
 import sys
