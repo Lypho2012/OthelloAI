@@ -144,9 +144,9 @@ x
     file.close()
 
 
-'''sys.argv.append("YOURGROUP_ai.py")
+'''sys.argv.append("Othello_AI_vs1.py")
 
-sys.argv.append("YOURGROUP_ai2.py")
+sys.argv.append("Othello_AI_vs2.py")
 
 player1 = AiPlayerInterface(sys.argv[1],1)
 player2 = AiPlayerInterface(sys.argv[2],2)
