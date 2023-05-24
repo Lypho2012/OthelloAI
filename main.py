@@ -1,12 +1,12 @@
 from othello_gui import main
 import sys
-from YOURGROUP_ai import compute_utility
+from Othello_AI_vs1 import compute_utility
 
 
-sys.argv.append("YOURGROUP_ai.py")
+sys.argv.append("Othello_AI_vs1.py")
 
 
-sys.argv.append("YOURGROUP_ai2.py")
+sys.argv.append("Othello_AI_vs2.py")
 
 #sys.argv.append("randy_ai.py")
 
